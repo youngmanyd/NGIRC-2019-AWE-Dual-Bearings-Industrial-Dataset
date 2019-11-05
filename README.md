@@ -9,3 +9,10 @@ The main contributions of our work can be summarized as follows:
 (2)This destructive experiment mainly aims at the bearing center inconsistent problem of vertical dual bearings rotating machinery, and realizes the health perception task at the system level. 
 
 ### 2.INTRODUCTION OF INDUSTRIAL DATA ACQUISITION SYSTEM
+
+### 5.HOW TO CITE
+Dataset is currently available through this site and externally housed through University Digital Repositories. The usage rights are provided individually alongside the measurement data.
+
+It is asked that if any data is used, then a citation to the corresponding published work should be made (if this exists). Acknowledgement is also asked to be given to this website with the following words. “Acknowledgement is made for the dataset used in this work provided through BJTU-AWE Database”. 
+### 6.CONTACT US
+If you have questions regarding the database, or if you would like to contribute, please contact us with the email. 
