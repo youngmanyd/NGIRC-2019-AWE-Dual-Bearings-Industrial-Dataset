@@ -11,9 +11,7 @@ The main contributions of our work can be summarized as follows:
 ### 2.INTRODUCTION OF INDUSTRIAL DATA ACQUISITION SYSTEM
 We developed a industrial multi-sensor data collection system including 12 sensors in 6 kinds based on intelligent gateway which is shown in Figure 1. This system implements the elemental  functions of data acquisition, storage and transmission, so that it can provide reliable guarantee for the establishment of the dataset. 
 
-![image](https://github.com/amo3315/ML/blob/master/Dataset/%E5%AE%9E%E9%AA%8C%E5%AE%A4logo.png?raw=true)
-
-In order to describe and record the running state(the health state) of the equipment, the system integrates six kinds of common sensors including accelerometer, hall ring, magnetic suction temperature sensor, proximity sensor and laser displacement sensor to respectively collect vibration data, current data, temperature data, swing data, inclination data, and rotation rate data. The deployment of sensors is shown in the Figure 2.
+In order to describe and record the running state(the health state) of the equipment, the system integrates six kinds of common sensors including accelerometer, hall ring, magnetic suction temperature sensor, proximity sensor and laser displacement sensor to respectively collect vibration data, current data, temperature data, swing data, inclination data, and rotation rate data. The deployment of sensors is shown in the Figure 1.
 
 ![image](https://github.com/amo3315/ML/blob/master/Dataset/%E5%AE%9E%E9%AA%8C%E5%AE%A4logo.png?raw=true)
 
