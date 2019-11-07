@@ -33,7 +33,7 @@ The collected data includes six kinds which are vibration acceleration data, cur
 In the actual process of overhaul, the single working time of the Automatic Car Washing Equipment is 10 minutes, and the task intervals depends on the arrival frequency of trains. Therefore, in order to fully simulate the facts, we set the acquisition length of single group to 10 minutes, the task intervals is selected randomly. Each level of deviation has 7 groups of data. 
 
 ### 4.INTRODUCTION OF DATA STRUCTURE
-We classify the data according to the labels which are different concentricity deviation degree. Folder names are label names, such as Normal, One-chip, etc. Each type of the labels contains all the data files of this group, which are saved in JSON format. Each JSON file, called as one batch, contains all sensor data collected in 10 minutes. The specific organizational structure is shown in Figure 3.
+We classify the data according to the labels which are different concentricity deviation degree. Folder names are label names, such as Normal, One-chip, etc. Each type of the labels contains all the data files of this group, which are saved in JSON format. Each JSON file, called as one batch, contains all sensor data collected in 10 minutes. The specific organizational structure is shown in Figure 2.
 
 ![image](https://github.com/amo3315/photo/blob/master/fig2.jpg?raw=true)
 
