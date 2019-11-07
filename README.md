@@ -13,7 +13,7 @@ We developed a industrial multi-sensor data collection system including 12 senso
 
 In order to describe and record the running state(the health state) of the equipment, the system integrates six kinds of common sensors including accelerometer, hall ring, magnetic suction temperature sensor, proximity sensor and laser displacement sensor to respectively collect vibration data, current data, temperature data, swing data, inclination data, and rotation rate data. The deployment of sensors is shown in the Figure 1.
 
-![image](https://github.com/amo3315/ML/blob/master/Dataset/%E5%AE%9E%E9%AA%8C%E5%AE%A4logo.png?raw=true)
+![image](https://github.com/amo3315/photo/blob/master/fig1.jpg?raw=true)
 
 Hall ring is placed in the electric box to collect the three-phase current. Single-axis accelerometer is placed on the upper and lower bearings to collect vibration signals. Magnetic suction temperature sensor is placed in four positions including electric motor, reducer, upper bearing and lower bearing to collect temperature signals respectively. Laser displacement sensor is placed on the support frame to collect swing signal. Proximity sensor is placed on the rotating chassis to collect rotation rate signal. 
 
@@ -35,7 +35,7 @@ In the actual process of overhaul, the single working time of the Automatic Car 
 ### 4.INTRODUCTION OF DATA STRUCTURE
 We classify the data according to the labels which are different concentricity deviation degree. Folder names are label names, such as Normal, One-chip, etc. Each type of the labels contains all the data files of this group, which are saved in JSON format. Each JSON file, called as one batch, contains all sensor data collected in 10 minutes. The specific organizational structure is shown in Figure 3.
 
-![image](https://github.com/amo3315/ML/blob/master/Dataset/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
+![image](https://github.com/amo3315/photo/blob/master/fig2.jpg?raw=true)
 
 ### 5.HOW TO CITE
 Dataset is currently available through this site and externally housed through University Digital Repositories. The usage rights are provided individually alongside the measurement data.
