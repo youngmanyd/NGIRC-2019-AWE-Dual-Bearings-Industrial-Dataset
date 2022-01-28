@@ -40,6 +40,6 @@ We classify the data according to the labels which are different concentricity d
 ### 5.HOW TO CITE
 Dataset is currently available through this site and externally housed through University Digital Repositories. The usage rights are provided individually alongside the measurement data.
 
-It is asked that if any data is used, then a citation to the corresponding published work should be made (if this exists). Acknowledgement is also asked to be given to this website with the following words. “Acknowledgement is made for the dataset used in this work provided through NGIT-2019-AWE-Dual_Bearings_Industrial_Dataset”. 
+It is asked that if any data is used, then a citation to the corresponding published work should be made (if this exists). Acknowledgement is also asked to be given to this website with the following words. “Acknowledgement is made for the dataset used in this work provided through NGIT-2019-AWE-Industrial-Dataset”. 
 ### 6.CONTACT US
 If you have questions regarding the database, or if you would like to contribute, please contact us with the email “dyang@bjtu.edu.cn”.  
